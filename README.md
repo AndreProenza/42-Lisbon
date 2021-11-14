@@ -2,6 +2,15 @@
 
 <img src="42.jpg">
 
+Welcome to my 42 Lisbon workspace 👋 
+
+Here you can find my personal projects and follow my 42 Lisbon journey.
+Projects are organized by levels and stored in subfolders corresponding to specific levels.
+
+Feel free to explore!
+
+#
+
 ## 42 Lisbon website
 https://www.42lisboa.com/en/
 
