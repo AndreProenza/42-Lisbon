@@ -21,6 +21,6 @@ Here you learn in a different way, by developing real projects in teams, based o
 
 Founded in Paris in 2013, today 42 has more than 10.000 students in over 20 countries, and is recognized as one of the best coding schools worldwide.
 
-Learning at 42 is entirely free of charge, and it doesn’t require any academic degree or coding experience. You only have to be at least 17 years old to apply.
+Learning at 42 is entirely free of charge, and it doesn’t require any academic degree or coding experience.
 
 The school’s practical approach, based on peer-to-peer collaboration, guarantees both excellent technical training and the development of valuable soft skills, such as the ability to work in teams, problem-solving, adaptation, determination, and resilience.
