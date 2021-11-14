@@ -11,7 +11,7 @@ Feel free to explore!
 
 #
 
-## 42 Lisbon website
+## 42 Lisbon Website
 https://www.42lisboa.com/en/
 
 ## About 42 Lisbon
