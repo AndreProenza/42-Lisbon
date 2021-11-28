@@ -1,6 +1,6 @@
 # 42-Lisbon
 
-<img src="42.jpg">
+![42](https://user-images.githubusercontent.com/78174997/143771931-59af5436-85ef-4ac2-a418-dd4271035ef4.jpg)
 
 Welcome to my 42 Lisbon workspace 👋 
 
